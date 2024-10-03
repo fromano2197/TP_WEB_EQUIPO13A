@@ -20,6 +20,7 @@
             <!-- Navegación simple -->
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <a class="navbar-brand" href="ArticuloLista.aspx">Lista de Artículos</a>
+                <a class="navbar-brand" href="DatosCliente.aspx">Datos de Cliente</a>
             </nav>
 
             <!-- Contenido dinámico -->

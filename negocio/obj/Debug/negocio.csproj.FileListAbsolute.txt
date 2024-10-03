@@ -16,3 +16,12 @@ C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\negocio\obj\Deb
 C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
 C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
 C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.dll
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.pdb
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.dll
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.pdb
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
+C:\Users\roman\OneDrive\Desktop\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
