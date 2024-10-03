@@ -21,7 +21,7 @@ namespace negocio
 
             try
             {
-                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=CATALOGO_P3_DB; Integrated Security=True;";
+                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=PROMOS_DB; Integrated Security=True;";
                 comando.CommandType = System.Data.CommandType.Text;
                 comando.CommandText = "select A.Id IdArticulo, A.Codigo, A.Nombre, A.Descripcion, M.Id IdMarca, M.Descripcion as Marca, C.Id IdCategoria, ISNULL(C.Descripcion, 'Sin categoría') AS Categoria, I.ImagenUrl, A.Precio " +
                               "from ARTICULOS A " +
@@ -72,6 +72,46 @@ namespace negocio
             }
 
 
+        }
+
+        public List<Articulo> listarConSp()
+        {
+            List<Articulo> lista = new List<Articulo>();
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+                datos.setearProcedimiento("storedListar");
+                datos.ejecutarLectura();
+                while (datos.Lector.Read())
+                {
+                    Articulo aux = new Articulo();
+                    aux.Id = datos.Lector.GetInt32(0);
+                    aux.Codigo = (string)datos.Lector["Codigo"];
+                    aux.Nombre = (string)datos.Lector["Nombre"];
+                    aux.Descripcion = (string)datos.Lector["Descripcion"];
+                    aux.Marca = new Marca();
+                    aux.Marca.Descripcion = (string)datos.Lector["Marca"];
+                    aux.Categoria = new Categoria();
+                    aux.Categoria.Descripcion = (string)datos.Lector["Categoria"];
+                    aux.UrlImagen = new Imagen();
+                    if (!(datos.Lector["ImagenUrl"] is DBNull))
+                    {
+
+                        aux.UrlImagen.ImagenUrl = (string)datos.Lector["ImagenUrl"];
+                    }
+
+                    aux.Precio = (Decimal)datos.Lector["Precio"];
+                    lista.Add(aux);
+                }
+
+
+                return lista;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
         public void eliminar(int id)
         {
