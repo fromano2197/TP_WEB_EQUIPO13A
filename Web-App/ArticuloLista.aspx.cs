@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using dominio;
 using negocio;
 
+
 namespace Web_App
 {
     public partial class ArticuloLista : System.Web.UI.Page
