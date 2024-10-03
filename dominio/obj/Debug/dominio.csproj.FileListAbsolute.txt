@@ -4,3 +4,9 @@ C:\Users\roman\OneDrive\Desktop\UTN\WEB GITHUB\TP_WEB_EQUIPO13A\dominio\obj\Debu
 C:\Users\roman\OneDrive\Desktop\UTN\WEB GITHUB\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\roman\OneDrive\Desktop\UTN\WEB GITHUB\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.dll
 C:\Users\roman\OneDrive\Desktop\UTN\WEB GITHUB\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.pdb
+C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\dominio\bin\Debug\dominio.dll
+C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\dominio\bin\Debug\dominio.pdb
+C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.dll
+C:\Users\herna\OneDrive\Escritorio\Repo Git Hub\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.pdb

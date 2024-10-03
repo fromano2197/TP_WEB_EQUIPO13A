@@ -70,6 +70,7 @@
     <Content Include="ArticuloLista.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
+    <Content Include="DetalleArticulo.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArticuloLista.aspx.cs">
@@ -94,6 +95,13 @@
       <DependentUpon>MasterPage.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DetalleArticulo.aspx.cs">
+      <DependentUpon>DetalleArticulo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetalleArticulo.aspx.designer.cs">
+      <DependentUpon>DetalleArticulo.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="MasterPage.Master" />

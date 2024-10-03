@@ -107,10 +107,10 @@ namespace negocio
 
                 return lista;
             }
-            catch (Exception ex)
+            catch (Exception )
             {
 
-                throw ex;
+                throw;
             }
         }
         public void eliminar(int id)

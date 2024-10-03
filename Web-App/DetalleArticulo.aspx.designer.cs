@@ -11,7 +11,7 @@ namespace Web_App
 {
 
 
-    public partial class Default
+    public partial class WebForm1
     {
     }
 }
