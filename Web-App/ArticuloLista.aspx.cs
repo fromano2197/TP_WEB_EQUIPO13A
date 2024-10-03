@@ -14,8 +14,13 @@ namespace Web_App
         public List<Articulo> ListaArticulo { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
-            ArticuloNegocio negocio = new ArticuloNegocio();
-            ListaArticulo = negocio.listarConSp();
+            if (!IsPostBack)
+            {
+                ArticuloNegocio negocio = new ArticuloNegocio();
+                ListaArticulo = negocio.listarConSp();
+                repRepeater.DataSource = ListaArticulo;
+                repRepeater.DataBind();
+            }
         }
     }
 }
