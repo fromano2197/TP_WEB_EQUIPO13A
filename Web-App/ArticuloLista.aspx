@@ -7,7 +7,7 @@
     
     <asp:GridView ID="dgvArticulos" runat="server" CssClass="table"></asp:GridView>
     <link rel="stylesheet" type="text/css" href='<%= ResolveUrl("~/Content/estilos.css") %>' />
-
+     <hr />
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <asp:Repeater ID="repRepeater" runat="server">
        <ItemTemplate>
@@ -17,7 +17,8 @@
         <div class="card-body">
             <h5 class="card-title">"<%#Eval("Nombre")%>"</h5>
             <p class="card-text">"<%#Eval("Descripcion")%>" </p>
-            <a href=DetalleArticulo.aspx?id="<%#Eval("Id")%>">Ver Detalle</a>
+            <a class="btn btn-primary" href="DetalleArticulo.aspx?id=<%#Eval("Id")%>">Ver Detalle</a>
+
         </div>
     </div>
 </div>

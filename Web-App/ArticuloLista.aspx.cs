@@ -23,5 +23,15 @@ namespace Web_App
                 repRepeater.DataBind();
             }
         }
+        protected void VerDetalle_Click(object sender, EventArgs e)
+        {
+            
+            LinkButton btn = (LinkButton)sender;
+            string articuloId = btn.CommandArgument;
+
+            
+            Response.Redirect("Detalle.aspx");
+        }
+
     }
 }

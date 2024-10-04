@@ -74,6 +74,68 @@ namespace negocio
 
         }
 
+        public Articulo listar(int idArticulo)
+        {
+            Articulo aux = null;
+            SqlConnection conexion = new SqlConnection();
+            SqlCommand comando = new SqlCommand();
+            SqlDataReader lector;
+
+            try
+            {
+                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=PROMOS_DB; Integrated Security=True;";
+                comando.CommandType = System.Data.CommandType.Text;
+                comando.CommandText = "select A.Id IdArticulo, A.Codigo, A.Nombre, A.Descripcion, M.Id IdMarca, M.Descripcion as Marca, C.Id IdCategoria, ISNULL(C.Descripcion, 'Sin categoría') AS Categoria, I.ImagenUrl, A.Precio " +
+                              "from ARTICULOS A " +
+                              "left join MARCAS M on A.IdMarca = M.Id " +
+                              "left join CATEGORIAS C on A.IdCategoria = C.Id " +
+                              "left join IMAGENES I ON A.Id = I.IdArticulo " +
+                              "where A.Id = @idArticulo";
+
+              
+                comando.Parameters.AddWithValue("@idArticulo", idArticulo);
+                comando.Connection = conexion;
+
+                conexion.Open();
+                lector = comando.ExecuteReader();
+
+                if (lector.Read())
+                {
+                    aux = new Articulo();
+                    aux.Id = lector.GetInt32(0);
+                    aux.Codigo = (string)lector["Codigo"];
+                    aux.Nombre = (string)lector["Nombre"];
+                    aux.Descripcion = (string)lector["Descripcion"];
+                    aux.Marca = new Marca();
+                    aux.Marca.Id = (int)lector["IdMarca"];
+                    aux.Marca.Descripcion = (string)lector["Marca"];
+                    aux.Categoria = new Categoria();
+                    if (lector["IdCategoria"] is DBNull)
+                    {
+                        aux.Categoria.Id = -1;
+                    }
+                    else
+                    {
+                        aux.Categoria.Id = (int)lector["IdCategoria"];
+                    }
+                    aux.Categoria.Descripcion = (string)lector["Categoria"];
+                    aux.UrlImagen = new Imagen();
+                    if (!(lector["ImagenUrl"] is DBNull))
+                    {
+                        aux.UrlImagen.ImagenUrl = (string)lector["ImagenUrl"];
+                    }
+
+                    aux.Precio = (Decimal)lector["Precio"];
+                }
+
+                conexion.Close();
+                return aux;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
         public List<Articulo> listarConSp()
         {
             List<Articulo> lista = new List<Articulo>();
@@ -107,7 +169,7 @@ namespace negocio
 
                 return lista;
             }
-            catch (Exception )
+            catch (Exception)
             {
 
                 throw;
