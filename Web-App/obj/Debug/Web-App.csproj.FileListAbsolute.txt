@@ -373,6 +373,6 @@ C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\bin\ne
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.AssemblyReference.cache
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.CoreCompileInputs.cache
-C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.Up2Date
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.dll
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.pdb
+C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.CopyComplete

@@ -49,6 +49,6 @@ C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\bin\De
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.pdb
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
-C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
+C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.CopyComplete

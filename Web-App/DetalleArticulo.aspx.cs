@@ -12,11 +12,11 @@ namespace Web_App
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
             {
-                
                 string idArticuloString = Request.QueryString["id"];
                 int idArticulo;
 
@@ -58,5 +58,6 @@ namespace Web_App
                 }
             }
         }
+
     }
 }

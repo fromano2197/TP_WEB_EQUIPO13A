@@ -15,6 +15,15 @@ namespace Web_App
     {
 
         /// <summary>
+        /// Control imgArticulo.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image imgArticulo;
+
+        /// <summary>
         /// Control lblCodigo.
         /// </summary>
         /// <remarks>
@@ -67,14 +76,5 @@ namespace Web_App
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblPrecio;
-
-        /// <summary>
-        /// Control imgArticulo.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Image imgArticulo;
     }
 }
