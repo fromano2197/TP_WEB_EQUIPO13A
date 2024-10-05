@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\",
+  "WorkspaceRootPath": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|c:\\users\\damian\\desktop\\lu\\progra 3\\tp web}\\tp_web_equipo13a\\web-app\\canjeovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\canjeovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\articulolista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\articulolista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\datoscliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\datoscliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|c:\\users\\damian\\desktop\\lu\\progra 3\\tp web}\\tp_web_equipo13a\\web-app\\errorvoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|c:\\users\\damian\\desktop\\lu\\progra 3\\tp web arreglo default\\tp_web_equipo13a\\web-app\\errorvoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\errorvoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19AE0D10-1E0A-43BF-A915-28040A10BB29}|dominio\\dominio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19AE0D10-1E0A-43BF-A915-28040A10BB29}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\canjeovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\canjeovoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|c:\\users\\damian\\desktop\\lu\\progra 3\\tp web}\\tp_web_equipo13a\\web-app\\canjeovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\canjeovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\content\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\articulolista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\articulolista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\content\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\content\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|c:\\users\\damian\\desktop\\lu\\progra 3\\tp web}\\tp_web_equipo13a\\web-app\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\datoscliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\datoscliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\detallearticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AE0D10-1E0A-43BF-A915-28040A10BB29}|dominio\\dominio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19AE0D10-1E0A-43BF-A915-28040A10BB29}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\canjeovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\canjeovoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD790402-061E-4F11-93C3-EADCCD3CF032}|negocio\\negocio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD790402-061E-4F11-93C3-EADCCD3CF032}|negocio\\negocio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD790402-061E-4F11-93C3-EADCCD3CF032}|negocio\\negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\articulolista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\articulolista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\articulolista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD790402-061E-4F11-93C3-EADCCD3CF032}|negocio\\negocio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD790402-061E-4F11-93C3-EADCCD3CF032}|negocio\\negocio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD790402-061E-4F11-93C3-EADCCD3CF032}|negocio\\negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19AE0D10-1E0A-43BF-A915-28040A10BB29}|dominio\\dominio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19AE0D10-1E0A-43BF-A915-28040A10BB29}|dominio\\dominio.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19AE0D10-1E0A-43BF-A915-28040A10BB29}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\web-app\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\web-app\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{29AE4D4D-28F1-456E-9D7F-AE2B69B60168}|Web-App\\Web-App.csproj|solutionrelative:web-app\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -74,8 +74,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloLista.aspx",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx",
+              "RelativeDocumentMoniker": "Web-App\\ArticuloLista.aspx",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx",
+              "RelativeToolTip": "Web-App\\ArticuloLista.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T23:44:52.973Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -84,35 +97,33 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CanjeoVoucher.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx.cs",
               "RelativeDocumentMoniker": "Web-App\\CanjeoVoucher.aspx.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx.cs",
               "RelativeToolTip": "Web-App\\CanjeoVoucher.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:09:30.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T16:09:30.898Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CanjeoVoucher.aspx",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx",
               "RelativeDocumentMoniker": "Web-App\\CanjeoVoucher.aspx",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\CanjeoVoucher.aspx",
               "RelativeToolTip": "Web-App\\CanjeoVoucher.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-05T16:08:10.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T16:08:10.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "errorVoucher.aspx",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\errorVoucher.aspx",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\errorVoucher.aspx",
               "RelativeDocumentMoniker": "Web-App\\errorVoucher.aspx",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\errorVoucher.aspx",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\errorVoucher.aspx",
               "RelativeToolTip": "Web-App\\errorVoucher.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -123,113 +134,93 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\dominio\\Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\dominio\\Articulo.cs",
               "RelativeToolTip": "dominio\\Articulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:40:54.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T01:40:54.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleArticulo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx.cs",
+              "RelativeDocumentMoniker": "Web-App\\DetalleArticulo.aspx.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx.cs",
+              "RelativeToolTip": "Web-App\\DetalleArticulo.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:34:13.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DetalleArticulo.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx.cs",
-              "RelativeDocumentMoniker": "Web-App\\DetalleArticulo.aspx.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx.cs",
-              "RelativeToolTip": "Web-App\\DetalleArticulo.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T01:34:13.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DatosCliente.aspx",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\DatosCliente.aspx",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\DatosCliente.aspx",
               "RelativeDocumentMoniker": "Web-App\\DatosCliente.aspx",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\DatosCliente.aspx",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\DatosCliente.aspx",
               "RelativeToolTip": "Web-App\\DatosCliente.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-03T10:16:16.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticuloLista.aspx",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx",
-              "RelativeDocumentMoniker": "Web-App\\ArticuloLista.aspx",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx",
-              "RelativeToolTip": "Web-App\\ArticuloLista.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-02T23:44:52.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DetalleArticulo.aspx",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx",
-              "RelativeDocumentMoniker": "Web-App\\DetalleArticulo.aspx",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx",
-              "RelativeToolTip": "Web-App\\DetalleArticulo.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-03T02:50:47.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx",
-              "RelativeDocumentMoniker": "Web-App\\Default.aspx",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx",
-              "RelativeToolTip": "Web-App\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-02T23:27:34.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T10:16:16.838Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "DetalleArticulo.aspx",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx",
+              "RelativeDocumentMoniker": "Web-App\\DetalleArticulo.aspx",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\DetalleArticulo.aspx",
+              "RelativeToolTip": "Web-App\\DetalleArticulo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-03T02:50:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx",
+              "RelativeDocumentMoniker": "Web-App\\Default.aspx",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx",
+              "RelativeToolTip": "Web-App\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T23:27:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "estilos.css",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\Content\\estilos.css",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\Content\\estilos.css",
               "RelativeDocumentMoniker": "Web-App\\Content\\estilos.css",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\Content\\estilos.css",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\Content\\estilos.css",
               "RelativeToolTip": "Web-App\\Content\\estilos.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-03T10:23:13.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T10:23:13.289Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Web-App\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\Default.aspx.cs",
               "RelativeToolTip": "Web-App\\Default.aspx.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAWwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:19:04.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T02:19:04.236Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\packages.config",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\packages.config",
               "RelativeDocumentMoniker": "Web-App\\packages.config",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\packages.config",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\packages.config",
               "RelativeToolTip": "Web-App\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -239,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ArticuloLista.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx.cs",
               "RelativeDocumentMoniker": "Web-App\\ArticuloLista.aspx.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\Web-App\\ArticuloLista.aspx.cs",
               "RelativeToolTip": "Web-App\\ArticuloLista.aspx.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAqwCAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ArticuloNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\negocio\\ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\negocio\\ArticuloNegocio.cs",
               "RelativeToolTip": "negocio\\ArticuloNegocio.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAiwEwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Voucher.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\dominio\\Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\dominio\\Voucher.cs",
               "RelativeDocumentMoniker": "dominio\\Voucher.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\dominio\\Voucher.cs",
               "RelativeToolTip": "dominio\\Voucher.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "VoucherNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\negocio\\VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\negocio\\VoucherNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\VoucherNegocio.cs",
-              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web}\\TP_WEB_EQUIPO13A\\negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Lu\\progra 3\\tp web arreglo default\\TP_WEB_EQUIPO13A\\negocio\\VoucherNegocio.cs",
               "RelativeToolTip": "negocio\\VoucherNegocio.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwBUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -28,3 +28,9 @@ C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\dominio\obj\Debug\d
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.dll
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.pdb
+C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\dominio\bin\Debug\dominio.dll
+C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\dominio\bin\Debug\dominio.pdb
+C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.dll
+C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\dominio\obj\Debug\dominio.pdb

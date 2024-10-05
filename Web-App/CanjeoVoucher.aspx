@@ -1,17 +1,18 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true" CodeBehind="CanjeoVoucher.aspx.cs" Inherits="Web_App.CanjeoVoucher" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <link rel="stylesheet" type="text/css" href='<%= ResolveUrl("~/Content/estilos.css") %>'
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <hr>
-        <div class="row g-3 align-items-center">
+
+    <form class="row g-3">
   <div class="col-auto">
-    <label for="txtVoucher" class="col-form-label">Ingresa el Voucher</label>
+      <label for="txtVoucher" class="form-label"> Codigo Voucher</label>
+<asp:TextBox ID="txtVoucher" CssClass="form-control" runat="server"></asp:TextBox>
   </div>
   <div class="col-auto">
-    <asp:TextBox ID="txtVoucher" CssClass="form-control" placeholder="XXXXXXXXX" runat="server"></asp:TextBox>
+       <asp:Button ID="btnValidar" CssClass="btn btn-primary"  OnClick="btnValidar_Click" runat="server" Text="Validar"/>
   </div>
-  <div class="col-auto">
-     <asp:Button ID="btnValidar" CssClass="btn btn-primary" OnClick="btnValidar_Click" runat="server" Text="Validar" />
-  </div>
-</div>
+</form>
+ 
 </asp:Content>
