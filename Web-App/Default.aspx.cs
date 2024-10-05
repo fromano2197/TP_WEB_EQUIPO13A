@@ -21,21 +21,9 @@ namespace Web_App
             
         }
 
-        protected void btnValidar_Click(object sender, EventArgs e)
+        protected void btnVoucher_Click(object sender, EventArgs e)
         {
-            try
-            {
-                string voucherBuscado = txtVoucher.Text;
-                VoucherNegocio voucher = new VoucherNegocio();
-                if (voucher.buscarVoucher(voucherBuscado)) Response.Redirect("ArticuloLista.aspx", false);
-            }
-            catch (Exception ex)
-            {
-
-                throw ex;
-            }
-            
-           
+            Response.Redirect("CanjeoVoucher.aspx", false);
         }
     }
 }

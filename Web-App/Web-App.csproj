@@ -68,9 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ArticuloLista.aspx" />
+    <Content Include="CanjeoVoucher.aspx" />
     <Content Include="Content\estilos.css" />
     <Content Include="DatosCliente.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="errorVoucher.aspx" />
     <Content Include="Web.config" />
     <Content Include="DetalleArticulo.aspx" />
   </ItemGroup>
@@ -81,6 +83,13 @@
     </Compile>
     <Compile Include="ArticuloLista.aspx.designer.cs">
       <DependentUpon>ArticuloLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CanjeoVoucher.aspx.cs">
+      <DependentUpon>CanjeoVoucher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CanjeoVoucher.aspx.designer.cs">
+      <DependentUpon>CanjeoVoucher.aspx</DependentUpon>
     </Compile>
     <Compile Include="DatosCliente.aspx.cs">
       <DependentUpon>DatosCliente.aspx</DependentUpon>
@@ -95,6 +104,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="errorVoucher.aspx.cs">
+      <DependentUpon>errorVoucher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="errorVoucher.aspx.designer.cs">
+      <DependentUpon>errorVoucher.aspx</DependentUpon>
     </Compile>
     <Compile Include="MasterPage.Master.cs">
       <DependentUpon>MasterPage.Master</DependentUpon>

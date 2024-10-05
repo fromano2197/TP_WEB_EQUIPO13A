@@ -11,16 +11,25 @@ namespace Web_App
 {
 
 
-    public partial class Default
+    public partial class CanjeoVoucher
     {
 
         /// <summary>
-        /// Control btnVoucher.
+        /// Control txtVoucher.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnVoucher;
+        protected global::System.Web.UI.WebControls.TextBox txtVoucher;
+
+        /// <summary>
+        /// Control btnValidar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnValidar;
     }
 }
