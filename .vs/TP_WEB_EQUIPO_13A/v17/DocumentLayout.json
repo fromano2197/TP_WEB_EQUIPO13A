@@ -115,7 +115,8 @@
               "RelativeToolTip": "Web-App\\CanjeoVoucher.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-05T16:08:10.949Z"
+              "WhenOpened": "2024-10-05T16:08:10.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -188,7 +189,8 @@
               "RelativeToolTip": "Web-App\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-02T23:27:34.223Z"
+              "WhenOpened": "2024-10-02T23:27:34.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

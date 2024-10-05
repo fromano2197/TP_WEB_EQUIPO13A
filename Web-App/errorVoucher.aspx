@@ -6,6 +6,6 @@
     <hr>
     <div> <h2> Lo sentimos! :( tu voucher no es correcto o ya fue utilizado anteriormente</h2></div>
     
-    <div> <a href="CanjeoVoucher.aspx">Reintentar canjear tu voucher!</a> </div>
+    <div class="d-grid gap-6 col-3 mx-auto"> <a href="CanjeoVoucher.aspx">Reintentar canjear tu voucher!</a> </div>
     
 </asp:Content>

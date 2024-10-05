@@ -6,11 +6,11 @@
     <hr>
 
     <form class="row g-3">
-  <div class="col-auto">
+  <div class="d-grid gap-6 col-6 mx-auto">
       <label for="txtVoucher" class="form-label"> Codigo Voucher</label>
 <asp:TextBox ID="txtVoucher" CssClass="form-control" runat="server"></asp:TextBox>
   </div>
-  <div class="col-auto">
+  <div class="d-grid gap-6 col-6 mx-auto">
        <asp:Button ID="btnValidar" CssClass="btn btn-primary"  OnClick="btnValidar_Click" runat="server" Text="Validar"/>
   </div>
 </form>
