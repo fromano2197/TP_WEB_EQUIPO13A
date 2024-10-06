@@ -4,9 +4,9 @@
      <link rel="stylesheet" type="text/css" href='<%= ResolveUrl("~/Content/estilos.css") %>' />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <hr>
-    <h2 class="h2">Bienvenido a Promo ganá!</h2>
-    <hr>
+    <div class="text-center"> 
+        <h2 class="h2">Bienvenido a Promo ganá!</h2>
+    </div>
     <img src="https://cloudmlmsoftware.com/sites/all/themes/cloudmlm/assets/images/features/evoucherIntro.webp" class="rounded mx-auto d-block" alt="">
     <hr>
     <div class="d-grid gap-2 col-2 mx-auto">

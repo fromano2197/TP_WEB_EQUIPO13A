@@ -353,7 +353,7 @@ namespace negocio
 
             try
             {
-                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=PROMOS_DB; Integrated Security=True;";
+                conexion.ConnectionString = "server=172.24.208.1; database=PROMOS_DB; user=sa; password=Fr123456!";
                 comando.CommandType = System.Data.CommandType.Text;
                 comando.CommandText = "SELECT A.Id AS IdArticulo, A.Codigo, A.Nombre, A.Descripcion, M.Descripcion AS Marca, " +
                                       "C.Descripcion AS Categoria, A.Precio, I.ImagenUrl " +

@@ -20,7 +20,7 @@ namespace negocio
 
         public AccesoDatos()
         {
-            conexion = new SqlConnection("server=.\\SQLEXPRESS; database=PROMOS_DB; Integrated Security=True;");
+            conexion = new SqlConnection("server=.\\SQLEXPRESS; database=PROMOS_DB; Integrated Security=True");
             comando = new SqlCommand();
 
         }

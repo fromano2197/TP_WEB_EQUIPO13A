@@ -70,3 +70,12 @@ C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\nego
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.dll
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.pdb
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.dll
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.pdb
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
+C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
