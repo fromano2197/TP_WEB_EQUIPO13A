@@ -51,7 +51,6 @@ C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\De
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
-C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.CopyComplete
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.dll
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.pdb
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.dll
@@ -70,3 +69,4 @@ C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\nego
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
+C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date

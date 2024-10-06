@@ -375,7 +375,6 @@ C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\De
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.CoreCompileInputs.cache
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.dll
 C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.pdb
-C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.CopyComplete
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\Web-App\bin\Web-App.dll.config
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\Web-App\bin\Web-App.dll
 C:\Users\Damian\Desktop\Lu\progra 3\tp web}\TP_WEB_EQUIPO13A\Web-App\bin\Web-App.pdb
@@ -502,3 +501,4 @@ C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\Web-
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.Up2Date
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.dll
 C:\Users\Damian\Desktop\Lu\progra 3\tp web arreglo default\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.pdb
+C:\Users\herna\OneDrive\Escritorio\Nueva carpeta\TP_WEB_EQUIPO13A\Web-App\obj\Debug\Web-App.csproj.Up2Date

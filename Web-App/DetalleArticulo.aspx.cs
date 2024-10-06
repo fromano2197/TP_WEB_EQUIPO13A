@@ -22,15 +22,11 @@ namespace Web_App
 
                 if (!string.IsNullOrEmpty(idArticuloString) && int.TryParse(idArticuloString, out idArticulo))
                 {
-                    
                     ArticuloNegocio articuloNegocio = new ArticuloNegocio();
-
-                    
                     Articulo articulo = articuloNegocio.listar(idArticulo);
 
                     if (articulo != null)
                     {
-                        
                         lblCodigo.Text = articulo.Codigo;
                         lblNombre.Text = articulo.Nombre;
                         lblDescripcion.Text = articulo.Descripcion;
@@ -38,14 +34,8 @@ namespace Web_App
                         lblCategoria.Text = articulo.Categoria.Descripcion;
                         lblPrecio.Text = articulo.Precio.ToString("C");
 
-                        if (articulo.UrlImagen != null && !string.IsNullOrEmpty(articulo.UrlImagen.ImagenUrl))
-                        {
-                            imgArticulo.ImageUrl = articulo.UrlImagen.ImagenUrl;
-                        }
-                        else
-                        {
-                            imgArticulo.ImageUrl = "~/imagenes/default-image.jpg";
-                        }
+                        rptImagenes.DataSource = articulo.Imagenes;
+                        rptImagenes.DataBind();
                     }
                     else
                     {
@@ -58,6 +48,7 @@ namespace Web_App
                 }
             }
         }
+
 
     }
 }

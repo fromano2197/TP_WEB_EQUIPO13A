@@ -22,5 +22,7 @@ namespace dominio
         public Imagen UrlImagen { get; set; }
         public Decimal Precio { get; set; }
 
+        public List<Imagen> Imagenes { get; set; }
+
     }
 }
