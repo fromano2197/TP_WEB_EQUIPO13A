@@ -12,7 +12,7 @@
                 
                 <div class="col-md-6">
                     <label for="txtDni" class="form-label">DNI</label>
-                    <asp:TextBox runat="server" ID="txtDni" CssClass="form-control" />
+                    <asp:TextBox runat="server" ID="txtDni" AutoPostBack="true" CssClass="form-control" OnTextChanged="txtDni_TextChanged"/>
                 </div>
                 
                 <div class="col-md-6">

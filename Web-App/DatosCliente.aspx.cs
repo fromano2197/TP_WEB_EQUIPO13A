@@ -2,6 +2,7 @@
 using negocio;
 using System;
 using System.Collections.Generic;
+using System.EnterpriseServices.Internal;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Web;
@@ -96,7 +97,7 @@ namespace Web_App
 
                 string voucher = Session["voucher"] != null ? Session["voucher"].ToString() : "";
                 int codArticulo;
-                    codArticulo = Session["codigoArt"] != null ? int.Parse(Session["codigoArt"].ToString()) : 0; 
+                codArticulo = Session["codigoArt"] != null ? int.Parse(Session["codigoArt"].ToString()) : 0; 
                 Voucher voucherActual = new Voucher();
                 VoucherNegocio negocioVoucher = new VoucherNegocio();
                 voucherActual.CodigoVaucher = voucher;
@@ -128,6 +129,21 @@ namespace Web_App
         private void MostrarMensaje(string mensaje)
         {
             litAlerta.Text = $"<div class='alert alert-warning'>{mensaje}</div>";
+        }
+
+        protected void txtDni_TextChanged(object sender, EventArgs e)
+        {
+            string dniBuscado = txtDni.Text;
+            ClienteNegocio cliente = new ClienteNegocio();
+            Cliente aux = new Cliente();
+            aux=cliente.buscarporDNI(dniBuscado);
+
+            txtNombre.Text = aux.Nombre;
+            txtApellido.Text= aux.Apellido;
+            txtEmail.Text = aux.Email;
+            txtDireccion.Text = aux.Direccion;
+            txtCiudad.Text = aux.Ciudad;
+            txtCodigoPostal.Text = aux.CodigoPostal.ToString();
         }
     }
 

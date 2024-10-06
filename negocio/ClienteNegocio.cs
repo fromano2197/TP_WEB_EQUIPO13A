@@ -41,6 +41,47 @@ namespace negocio
             }
         }
 
+        public Cliente buscarporDNI(string DNI)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+
+            try
+            {
+                datos.setConsulta("select * from Clientes Where Documento = @Documento");
+                datos.setearParametro("@Documento", DNI);
+                datos.ejecutarLectura();
+
+                Cliente aux = new Cliente();
+                while (datos.Lector.Read())
+                {
+
+                    aux.id = (int)datos.Lector["Id"];
+                    aux.Dni = datos.Lector["Documento"].ToString();
+                    aux.Nombre = datos.Lector["Nombre"].ToString();
+                    aux.Apellido = datos.Lector["Apellido"].ToString();
+                    aux.Email = datos.Lector["Email"].ToString();
+                    aux.Direccion = datos.Lector["Direccion"].ToString();
+                    aux.Ciudad = datos.Lector["Ciudad"].ToString();
+                    aux.CodigoPostal = int.Parse(datos.Lector["CP"].ToString());
+
+                }
+                return aux;
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+
+            finally
+            {
+                datos.cerrarConexion();
+
+            }
+
+            
+        }
         
     }
 }
