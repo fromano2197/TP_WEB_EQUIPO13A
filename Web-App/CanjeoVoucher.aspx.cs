@@ -20,7 +20,11 @@ namespace Web_App
             {
                 string voucherBuscado = txtVoucher.Text;
                 VoucherNegocio voucher = new VoucherNegocio();
-                if (voucher.buscarVoucher(voucherBuscado)) { Response.Redirect("ArticuloLista.aspx", false); }
+                bool validar = voucher.buscarVoucher(voucherBuscado);
+                if (validar) { 
+                    Response.Redirect("ArticuloLista.aspx", false);
+                    Session.Add("voucher", voucherBuscado);
+                }
                 else
                 {
                     Response.Redirect("errorVoucher.aspx", false);

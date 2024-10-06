@@ -79,3 +79,12 @@ C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Deb
 C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
 C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
 C:\Users\roman\OneDrive\Desktop\tp con carrusel\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.dll
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\bin\Debug\negocio.pdb
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.dll
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\bin\Debug\dominio.pdb
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.dll
+D:\Usuarios\USUARIO\Escritorio\TUP\progra 3\tp web final\TP_WEB_EQUIPO13A\negocio\obj\Debug\negocio.pdb

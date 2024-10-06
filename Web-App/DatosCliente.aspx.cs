@@ -15,7 +15,8 @@ namespace Web_App
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+           
+            
         }
 
         protected void btnEnviar_Click(object sender, EventArgs e)
@@ -93,6 +94,20 @@ namespace Web_App
 
                 negocio.agregar(nuevo);
 
+                string voucher = Session["voucher"] != null ? Session["voucher"].ToString() : "";
+                int codArticulo;
+                    codArticulo = Session["codigoArt"] != null ? int.Parse(Session["codigoArt"].ToString()) : 0; 
+                Voucher voucherActual = new Voucher();
+                VoucherNegocio negocioVoucher = new VoucherNegocio();
+                voucherActual.CodigoVaucher = voucher;
+                voucherActual.CodigoCliente = (int)negocioVoucher.buscarUltimoCliente().id;
+                voucherActual.FechaCanje = DateTime.Today;
+                voucherActual.CodigoArticulo = codArticulo;
+             
+               
+               
+                negocioVoucher.ActualizarVoucher(voucherActual);
+
                 litAlerta.Text = @"<div class='alert alert-success' role='alert'>
                           <h4 class='alert-heading'>¡Datos cargados con éxito!</h4>
                           <p>¡Gracias por completar tus datos y canjear tu voucher! Hemos registrado tu información</p>
@@ -101,6 +116,8 @@ namespace Web_App
                       </div>";
 
                 ClientScript.RegisterStartupScript(this.GetType(), "RedirectionScript", "setTimeout(function(){ window.location.href = 'Default.aspx'; }, 3000);", true);
+
+                
             }
             catch (Exception Ex)
             {

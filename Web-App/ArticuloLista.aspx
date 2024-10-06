@@ -19,7 +19,7 @@
                 <p class="card-text">"<%# Eval("Descripcion") %>"</p>
                 <div class="d-flex flex-column">
                     <a class="btn btn-primary mb-2" href="DetalleArticulo.aspx?id=<%# Eval("Id") %>">Ver Detalle</a>
-                    <a class="btn btn-success" href="DatosCliente.aspx?id=<%# Eval("Id") %>">Canjear</a>
+                    <%--<a class="btn btn-success" href="DatosCliente.aspx?id=<%# Eval("Id") %>">Canjear</a>--%>
                 </div>
             </div>
         </div>

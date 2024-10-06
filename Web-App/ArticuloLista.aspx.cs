@@ -13,8 +13,13 @@ namespace Web_App
     public partial class ArticuloLista : System.Web.UI.Page
     {
         public List<Articulo> ListaArticulo { get; set; }
+        public string voucher;
+        public int codArticulo;
+        
         protected void Page_Load(object sender, EventArgs e)
         {
+            voucher = Session["voucher"] != null ? Session["voucher"].ToString() : "";
+            
             if (!IsPostBack)
             {
                 ArticuloNegocio negocio = new ArticuloNegocio();
@@ -26,9 +31,10 @@ namespace Web_App
         protected void VerDetalle_Click(object sender, EventArgs e)
         {
             
+           
             LinkButton btn = (LinkButton)sender;
             string articuloId = btn.CommandArgument;
-
+            
             
             Response.Redirect("Detalle.aspx");
         }

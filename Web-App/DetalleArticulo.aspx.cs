@@ -19,7 +19,10 @@ namespace Web_App
             {
                 string idArticuloString = Request.QueryString["id"];
                 int idArticulo;
-
+                Session.Add("codigoArt", idArticuloString);
+                int codArticulo = Session["codigoArt"] != null ? int.Parse(Session["codigoArt"].ToString()) : 0;
+                string voucher;
+                voucher = Session["voucher"] != null ? Session["voucher"].ToString() : "";
                 if (!string.IsNullOrEmpty(idArticuloString) && int.TryParse(idArticuloString, out idArticulo))
                 {
                     ArticuloNegocio articuloNegocio = new ArticuloNegocio();
@@ -33,7 +36,7 @@ namespace Web_App
                         lblMarca.Text = articulo.Marca.Descripcion;
                         lblCategoria.Text = articulo.Categoria.Descripcion;
                         lblPrecio.Text = articulo.Precio.ToString("C");
-
+                        
                         rptImagenes.DataSource = articulo.Imagenes;
                         rptImagenes.DataBind();
                     }
