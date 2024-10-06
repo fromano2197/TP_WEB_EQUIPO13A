@@ -1,0 +1,20 @@
+create procedure storedListar as
+SELECT DISTINCT 
+    A.Id, 
+    A.Codigo, 
+    A.Nombre, 
+    A.Descripcion, 
+    M.Descripcion AS Marca, 
+    ISNULL(C.Descripcion, 'Sin categoría') AS Categoria, 
+    (SELECT TOP 1 I.ImagenUrl 
+     FROM IMAGENES I 
+     WHERE I.IdArticulo = A.Id 
+     ORDER BY I.Id) AS ImagenUrl,
+    A.Precio 
+FROM ARTICULOS A 
+LEFT JOIN MARCAS M ON A.IdMarca = M.Id 
+LEFT JOIN CATEGORIAS C ON A.IdCategoria = C.Id;
+
+create procedure storedBuscarVoucher as
+select * from Vouchers
+
